@@ -1,0 +1,5 @@
+/packages
+/.vs
+/LocalBitCoinAPI/obj
+/LocalBitCoinAPI/bin
+/LocalBitCoinAPI.sln.DotSettings.user
